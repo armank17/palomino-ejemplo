@@ -1,0 +1,2 @@
+ng generate component dir/name-component
+ng generate service services/movies
